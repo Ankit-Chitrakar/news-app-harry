@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+      {
+        "source": {
+          "id": "techcrunch",
+          "name": "TechCrunch"
+        },
+        "author": "Ivan Mehta",
+        "title": "Twitter Blue expands to more than 20 countries",
+        "description": "Twitter's $8 per month subscription plan Twitter Blue is now available to more than 20 new countries in Europe.",
+        "url": "https://techcrunch.com/2023/03/02/twitter-blue-expands-to-more-than-20-countries/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/11/twitter-blue-breaking.jpg?resize=1200,645",
+        "publishedAt": "2023-03-03T05:27:20Z",
+        "content": "Twitter’s paid plan Twitter Blue is now available to more than 20 new countries in Europe. These countries include Netherlands, Poland, Ireland, Belgium, Sweden, Romania, Czech Republic, Finland, Den… [+1325 chars]"
+      },
+      {
+        "source": {
+          "id": "techcrunch",
+          "name": "TechCrunch"
+        },
+        "author": "Kirsten Korosec",
+        "title": "Universal Hydrogen takes to the air with the largest hydrogen fuel cell ever to fly",
+        "description": "A Universal Hydrogen plane, equipped with the largest hydrogen fuel cell ever to power an aircraft, made its maiden test flight in Washington.",
+        "url": "https://techcrunch.com/2023/03/02/universal-hydrogen-takes-to-the-air-with-the-largest-hydrogen-fuel-cell-ever-to-fly/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/03/UH2_FirstFlight.jpg?resize=1200,800",
+        "publishedAt": "2023-03-02T22:56:10Z",
+        "content": "As a Universal Hydrogen-branded plane, equipped with the largest hydrogen fuel cell ever to power an aircraft, made its maiden test flight in eastern Washington, co-founder and CEO Paul Eremenko decl… [+8477 chars]"
+      },
+      {
+        "source": {
+          "id": "techcrunch",
+          "name": "TechCrunch"
+        },
+        "author": "Zack Whittaker",
+        "title": "Secret Service and ICE conducted warrantless stingray surveillance, says watchdog",
+        "description": "Homeland Security's inspector general said the two federal agencies \"did not always obtain court orders\" as required by policy or federal law.",
+        "url": "https://techcrunch.com/2023/03/02/secret-service-ice-warrantless-stingray/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1392356345.jpg?resize=1200,800",
+        "publishedAt": "2023-03-02T22:45:30Z",
+        "content": "A government watchdog has found that the Secret Service and ICE’s Homeland Security Investigations (HSI) unit repeatedly failed to obtain the correct legal paperwork when carrying out invasive cell p… [+3719 chars]"
+      },
+      {
+        "source": {
+          "id": "techcrunch",
+          "name": "TechCrunch"
+        },
+        "author": "Ron Miller",
+        "title": "Adobe’s Scott Belsky talks generative AI – and why it’s not going to end up like web3",
+        "description": "Adobe's Scott Belsky says that generative AI is nothing like web3 hype because it helps increase efficiency and reduce work for creatives.",
+        "url": "https://techcrunch.com/2023/03/02/adobes-scott-belsky-talks-generative-ai-and-why-its-not-going-to-end-up-like-web3/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1294781336.jpg?resize=1200,601",
+        "publishedAt": "2023-03-02T22:36:47Z",
+        "content": "Scott Belsky, chief product officer and executive vice president for Adobes Creative Cloud, believes theres a big difference between the hype cycle around web3 last year, and what were seeing this ye… [+3432 chars]"
+      },
+      {
+        "source": {
+          "id": "techcrunch",
+          "name": "TechCrunch"
+        },
+        "author": "Kate Park",
+        "title": "Indent raises $8.1M funding for its AI-powered customer video review tool",
+        "description": "Indent, a South Korean video review platform, raises $8.1 million Series A to continue developing its AI-powered marketing tool.",
+        "url": "https://techcrunch.com/2023/03/02/indent-raises-8-1m-funding-to-continue-developing-its-ai-powered-customer-video-review-tool/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/03/vrw_amp.png?resize=1200,900",
+        "publishedAt": "2023-03-02T22:34:26Z",
+        "content": "According to a recent report, 92.4% of consumers use reviews when deciding to purchase products. It’s understandable. They want confidence in their purchase choice before buying a product online.  \r\n… [+2818 chars]"
+      },
+      {
+        "source": {
+          "id": "techcrunch",
+          "name": "TechCrunch"
+        },
+        "author": "Kyle Wiggers",
+        "title": "Stability AI, Hugging Face and Canva back new AI research nonprofit",
+        "description": "Eleuther AI, a group of AI researchers investigating language models, is forming a nonprofit foundation for AI research.",
+        "url": "https://techcrunch.com/2023/03/02/stability-ai-hugging-face-and-canva-back-new-ai-research-nonprofit/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/01/GettyImages-1314979456.jpg?resize=1200,675",
+        "publishedAt": "2023-03-02T22:13:58Z",
+        "content": "Developing cutting-edge AI systems like ChatGPT requires massive technical resources, in part because they’re costly to develop and run. While several open source efforts have attempted to reverse-en… [+5834 chars]"
+      },
+      {
+        "source": {
+          "id": "techcrunch",
+          "name": "TechCrunch"
+        },
+        "author": "Brian Heater",
+        "title": "An ode to big tech cos putting earbuds in smartwatches and other weird crap",
+        "description": "I want to talk about weird tech for a minute. A lot of strange and wonderful pieces of technology have come across our desks over the years.",
+        "url": "https://techcrunch.com/2023/03/02/an-ode-to-big-tech-cos-putting-earbuds-in-smartwatches-and-other-weird-crap/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/03/20230301_170916-1.2023-03-02-12_59_34.gif",
+        "publishedAt": "2023-03-02T21:42:44Z",
+        "content": "I want to talk about weird tech for a minute. A lot of strange and wonderful pieces of technology have come across our desks over the years. More often that not, theyre the purview of the startup. Sm… [+4266 chars]"
+      },
+      {
+        "source": {
+          "id": "techcrunch",
+          "name": "TechCrunch"
+        },
+        "author": "Christine Hall",
+        "title": "Daily Crunch: Stealth startup Figure releases first photos of its all-purpose humanoid robot",
+        "description": "Hello, friends, and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.",
+        "url": "https://techcrunch.com/2023/03/02/daily-crunch-stealth-startup-figure-releases-first-photos-of-its-all-purpose-humanoid-robot/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/03/FIGURE01_Humanoid_1.jpg?resize=1200,960",
+        "publishedAt": "2023-03-02T21:37:56Z",
+        "content": "To get a roundup of TechCrunchs biggest and most important stories delivered to your inbox every day at 3 p.m. PST, subscribe here.\r\nGday, friends! Good to spend some time with you again. Come spend … [+3152 chars]"
+      },
+      {
+        "source": {
+          "id": "techcrunch",
+          "name": "TechCrunch"
+        },
+        "author": "Jacquelyn Melinek",
+        "title": "Are NFT marketplaces becoming an open sea for creator royalties?",
+        "description": "February wrapped up as a big month for the NFT market as non-fungible tokens on the Ethereum blockchain surpassed $1.5B in volume for the first time since May 2022.",
+        "url": "https://techcrunch.com/2023/03/02/are-nft-marketplaces-becoming-an-open-sea-for-creator-royalties/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/07/GettyImages-1385019129.jpg?resize=1200,800",
+        "publishedAt": "2023-03-02T17:40:52Z",
+        "content": "To get a roundup of TechCrunchs biggest and most important crypto stories delivered to your inbox every Thursday at 12 p.m. PT, subscribe here.\r\nWelcome back to Chain Reaction.\r\nPSA: Ill be at ETH De… [+5130 chars]"
+      },
+      {
+        "source": {
+          "id": "techcrunch",
+          "name": "TechCrunch"
+        },
+        "author": "Lorenzo Franceschi-Bicchierai",
+        "title": "Hackers steal gun owners' data from firearm auction website",
+        "description": "Hackers breached a website that allows people to buy and sell guns, exposing the identities of its users, TechCrunch has learned. The breach exposed realms of sensitive personal data for more than 550,000 users, including customers’ full names, home addresses…",
+        "url": "https://techcrunch.com/2023/03/02/hackers-steal-gun-owners-data-from-firearm-auction-website/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1461178064.jpg?resize=1200,852",
+        "publishedAt": "2023-03-02T15:43:45Z",
+        "content": "Hackers breached a website that allows people to buy and sell guns, exposing the identities of its users, TechCrunch has learned.\r\nThe breach exposed realms of sensitive personal data for more than 5… [+3059 chars]"
+      }
+    ]
+  }
